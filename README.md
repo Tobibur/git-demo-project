@@ -1,3 +1,4 @@
+# This is a new title
 # git-demo-project
 This is a demo project for my blog on Git and GitHub basics
 
