@@ -7,3 +7,5 @@ My blog link:
 This is a test change.
 
 Now this should be merged.
+
+This is change from github.
